@@ -1,0 +1,1 @@
+My proposed solution to the great exercises from http://rubykoans.com/ 
